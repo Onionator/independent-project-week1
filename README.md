@@ -2,7 +2,7 @@ Automated Restaurant
 
 * 8:00 - Start research for kiosk
 * 9:00 - Comparing UI's for ideas
-* 10:00 - Drawing up UI wireframe and flow chart
+* 10:00 - Drawing up flow chart
 * 11:00 - Write out business operations
 * 12:00 - Write out business operations
 * 1:00 - Lunch
