@@ -10,3 +10,5 @@ Automated Restaurant
 * 3:00 - Attempt to start coding
 * 4:00 - Research free POS systems and write README
 * 5:00 - Finished for the day
+
+pictures of work done in pictures folder
